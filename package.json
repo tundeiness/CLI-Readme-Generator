@@ -1,0 +1,23 @@
+{
+  "name": "cli-readme-generator",
+  "version": "1.0.0",
+  "description": "A Nodejs Readme file generator",
+  "main": "App.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tundeiness/CLI-Readme-Generator.git"
+  },
+  "keywords": [
+    "Readme-generator",
+    "CLI"
+  ],
+  "author": "Tunde Oretade",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/tundeiness/CLI-Readme-Generator/issues"
+  },
+  "homepage": "https://github.com/tundeiness/CLI-Readme-Generator#readme"
+}

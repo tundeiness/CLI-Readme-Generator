@@ -1,10 +1,10 @@
 
- ## greater Oshodi 
+ ## Readme Generator 
  ### Getting started: 
- clone the repo 
+  Clone the project by runing ```git clone https://github.com/tundeiness/CLI-Readme-Generator``` 
 
  ## Deployment: 
- run npm init 
+ run ```nodemon App.js``` 
 
  ## Versioning: 
  1.0

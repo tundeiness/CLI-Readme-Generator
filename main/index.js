@@ -15,7 +15,7 @@ const readline = require('readline').createInterface({
         readline.question(`What is the version of the app ?`,( version) => {
           if (version === '') return `you need to supply the version`;
 
-          let reply = `\n ## ${project_title} \n ### Getting started: \n ${start} \n\n ## Deployment: \n ${deploy} \n\n ## Versioning: \n ${version}`
+          let reply = `\n ## ${project_title} \n ### Getting started \n ${start} \n\n ## Deployment \n ${deploy} \n\n ## Versioning \n ${version}`
 
 
           fs.writeFile('README.md', reply, err => {

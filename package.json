@@ -27,5 +27,6 @@
     "fs": "0.0.1-security",
     "fs-extra": "^9.0.1",
     "inquirer": "^7.3.3"
-  }
+  },
+  "devDependencies": {}
 }

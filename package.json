@@ -21,7 +21,11 @@
   },
   "homepage": "https://github.com/tundeiness/CLI-Readme-Generator#readme",
   "dependencies": {
+    "chalk": "^4.1.0",
     "clear": "^0.1.0",
+    "file-system": "^2.2.2",
+    "fs": "0.0.1-security",
+    "fs-extra": "^9.0.1",
     "inquirer": "^7.3.3"
   }
 }

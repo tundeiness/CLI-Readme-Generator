@@ -1,10 +1,10 @@
 
- ## Readme Generator 
+ ## CLI 
  ### Getting started: 
-  Clone the project by runing ```git clone https://github.com/tundeiness/CLI-Readme-Generator``` 
+ clone this repo by running `git clone link-to-repo` 
 
  ## Deployment: 
- run ```nodemon App.js``` 
+ run this line of code ```nodemon App.js``` 
 
  ## Versioning: 
  1.0

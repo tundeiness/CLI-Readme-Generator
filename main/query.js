@@ -17,7 +17,7 @@ const questions = [
   },
   {
     name: "VERSIONING",
-    type: "input",
+    type: "number",
     message: `What is the version of the app ?`
 
 },
